@@ -1,0 +1,11 @@
+runtime/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.lnk
+.clipboardfloat-install.json
+logs/
+dist/
+build/

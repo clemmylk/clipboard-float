@@ -1,0 +1,28 @@
+CLIPBOARD FLOAT - QUICK START
+Windows 10 / 11, 64-bit Intel or AMD
+
+1. Download Clipboard-Float-1.0.0-Windows-x64.zip from GitHub Releases.
+2. Right-click it and choose Extract All.
+3. Open the extracted folder and double-click INSTALL.bat.
+
+Python is included. No account, internet connection or administrator rights
+are needed for normal installation. After setup, the extracted setup folder
+can be removed. Use the installed desktop shortcut instead.
+
+Hold Tab and press V: open the menu.
+Tab while the menu is open: next page. Shift + Tab: previous page.
+Click a clip: paste it into the previous application.
+Right-click a clip: copy only. Enter: paste selected. Ctrl + Enter: copy only.
+Use the search box to find text. Esc: hide the menu.
+Ctrl + Alt + V is the alternative opening shortcut.
+
+The three-dot menu / tray menu has Pause capture, Start with Windows,
+Clear history and Quit. Closing the floating menu keeps the background
+tool running. Choose Quit to stop it completely.
+
+History stays in memory only and clears when the app exits or Windows restarts.
+The app automatically starts in the background after Windows sign-in.
+The installed folder is %LOCALAPPDATA%\ClipboardFloat.
+
+To uninstall: Quit from the tray menu, then run UNINSTALL.bat from the
+installed folder. This removes its shortcuts and installed files.

@@ -1,0 +1,2 @@
+License texts copied without modification from Qt 6.12.0, qt/qtbase LICENSES.
+https://api.github.com/repos/qt/qtbase/contents/LICENSES?ref=v6.12.0

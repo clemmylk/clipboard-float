@@ -1,0 +1,15 @@
+Clipboard Float uses design resources adapted from Filee:
+https://github.com/KnifeLemon/Filee
+
+Upstream source files retained here under the MIT license:
+- DonutGeometry.cs: clockwise-from-top polar layout, angular hit testing,
+  constant visual gap between inner/outer radii.
+- DonutMenu.cs: substepped spring integration (320 stiffness / 20 damping),
+  7-pixel hover pop-out, critically damped dismissal.
+- Soft.axaml and SoftPalette.cs: warm neutral surfaces and #7F77DD accent.
+
+The Python port is in filee_motion.py. Qt-native painting, clipboard previews,
+keyboard navigation and the clipboard data layer are this application's code.
+This is an independent clipboard utility, not an official Filee release.
+
+Adapted upstream commit: 55d76521f6ea13738d69cd6bc40e3e4f24f876c1
